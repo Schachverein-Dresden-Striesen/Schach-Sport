@@ -3,6 +3,10 @@ Collection of educational material about the human body
 
 ## Video-Material
 
+> Mit einem Klick auf die Thumbnail-Bilder kommt ihr direkt zum jeweiligen Youtube-Video.
+> Die Videos sind relativ sortiert nach ansteigender körperlicher Anforderung beim Mitmachen.
+
+
 ### <ins>Klassischer Sonnengruss 6 Runden Surya Namaskar nach Sivananda Tradition</ins>
 
 In diesem Video üben wir den klassischen Sonnengruss (Surya Namaskar) nach Sivananda Yoga Tradition. Diese Abfolge eignet sich hervorragend als Morgenroutine, als Warm Up oder als kleinen Energizer für zwischendurch!
