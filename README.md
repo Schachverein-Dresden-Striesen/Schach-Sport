@@ -26,6 +26,33 @@ Dieser Bereich bietet eine Sammlung von wissenschaftlich fundierten Materialien 
 
 ---
 
+## Themenbereiche
+
+### 📚 [Turniervorbereitung und Wettkampf](Turniervorbereitung-und-Wettkampf.md)
+Umfassender Leitfaden für die optimale Turniervorbereitung und erfolgreiches Turnierverhalten:
+- **Strategische, praktische und mentale Turniervorbereitung**
+- **Verhalten vor, während und nach Partien**
+- **Umgang mit Stress, Niederlagen und Zeitnot**
+- **Turnierkalender, Anmeldungen und Fair Play**
+
+Dieser Bereich hilft dir, dich optimal auf Turniere vorzubereiten, während des Turniers die beste Leistung zu zeigen und aus jeder Partie das Maximum herauszuholen – unabhängig vom Ergebnis.
+
+### 💪 [Gesundheit und Leistungsoptimierung](Gesundheit-und-Leistungsoptimierung.md)
+Ganzheitlicher Ansatz für nachhaltige Schachleistung durch körperliche und mentale Gesundheit:
+- **Fitness: Ausdauer, Kraft, Flexibilität und Atemübungen**
+- **Ernährung: Gehirnförderliche Lebensmittel und optimale Mahlzeitenplanung**
+- **Schlaf und Regeneration: Erholung als Leistungsfaktor**
+- **Belastungssteuerung und Konzentration im Wettkampf**
+- **Umgang mit Bildschirmzeit und digitalem Training**
+- **Prävention von Übertraining und Motivationsverlust**
+
+Dieser Bereich zeigt dir, wie du durch bewusste Gesundheitspraktiken deine Schachleistung nachhaltig steigern kannst – für Training, Turnier und langfristige Entwicklung.
+
+### 🧠 [Physiologische Aspekte des Schachspiels](Physiologie-im-Schach.md)
+Wissenschaftliche Grundlagen: Verstehe, wie dein Körper beim Schachspielen funktioniert und wie du diese Erkenntnisse nutzen kannst.
+
+---
+
 ## Video-Material
 
 > Mit einem Klick auf die Thumbnail-Bilder kommt ihr direkt zum jeweiligen Youtube-Video.
