@@ -37,7 +37,7 @@ Die Wim Hof Atemmethode ist eine großartige Praxis, um das Nervensystem zu beru
 Qigong hilft, die Energie zu harmonisieren, Muskeln sanft zu dehnen und den Geist zu fokussieren.
 
 * **10-Minuten-Routine für den unteren Rücken, Schultern & Hüfte:** Speziell entwickelt, um Verspannungen durch langes Sitzen zu lösen.
-[![10 Mintute-Qigong Daily Routine to Begin Your Day. This Routine will help you to Relax and Heal your Neck, Lower Back, and Hips.](https://img.youtube.com/vi/O38rtX9Luds/0.jpg)](https://www.youtube.com/watch?v=O38rtX9Luds)
+[![10 Minute-Qigong Daily Routine to Begin Your Day. This Routine will help you to Relax and Heal your Neck, Lower Back, and Hips.](https://img.youtube.com/vi/O38rtX9Luds/0.jpg)](https://www.youtube.com/watch?v=O38rtX9Luds)
 
 * **Sitting Qigong (Qigong im Sitzen):** Perfekt für eine schnelle Regeneration direkt auf dem Stuhl.
 [![Ultimate Peace: Sitting Qigong ](https://img.youtube.com/vi/h0ygkVg3fMU/0.jpg)](https://www.youtube.com/watch?v=h0ygkVg3fMU)
