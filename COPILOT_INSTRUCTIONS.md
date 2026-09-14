@@ -109,9 +109,11 @@ Before submitting content, ensure:
 
 ### Existing Files
 
-- `README.md`: Collection of wellness videos and exercises
-- `Physiological-Aspects-of-Chess.md`: English version of physiological concepts
-- `Physiologie-im-Schach.md`: German version with more detailed information
+- `README.md`: Haupt-Einstiegspunkt auf Deutsch mit Video-Empfehlungen und Links zu den Handreichungen.
+- `docs/Turnier_Handreichung.md`: Praktische Handreichung (Turnier-Survival-Kit) für Spieler und Eltern.
+- `docs/Physiologie_Grundlagen.md`: Physische Grundlagen im Schachsport auf einfache Weise erklärt.
+- `docs/archive/Physiological-Aspects-of-Chess.md`: Archivierte englische Version der physiologischen Konzepte.
+- `docs/archive/Physiologie-im-Schach.md`: Archivierte ursprüngliche wissenschaftliche Version auf Deutsch.
 
 ### Content Areas to Expand
 
