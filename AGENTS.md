@@ -2,6 +2,12 @@
 
 This repository uses Matt Pocock's engineering skills to improve code review, specification, and ticketing workflows.
 
+## Repository Location
+
+- **Organization:** Schachverein-Dresden-Striesen
+- **Repository:** Schach-Sport
+- **URL:** https://github.com/Schachverein-Dresden-Striesen/Schach-Sport
+
 ## Issue tracker
 
 Issues and specs live in GitHub Issues. See `docs/agents/issue-tracker.md`.
