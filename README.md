@@ -30,28 +30,24 @@ Dieser Bereich bietet eine Sammlung von wissenschaftlich fundierten Materialien 
 
 ## 📚 Inhalte erkunden
 
-Alle Inhalte sind organisiert nach Thema im `/content/` Verzeichnis:
+Alle Physiologie-Inhalte sind im `/content/` Verzeichnis organisiert. **Beginne hier:**
 
-- **[Exercise & Movement](content/exercise-movement/)** – Yoga, Qigong, Atemtechniken, Dehnübungen
-- **[Sleep](content/sleep/)** – Schlafzyklen, Erholung, Turnierstrategien
-- **[Nutrition](content/nutrition/)** – Ernährung, Mahlzeitentiming, Turnierkraft
-- **[Mental Resilience](content/mental-resilience/)** – Stressmanagement, Fokus, Druckbewältigung
-- **[Hydration & Immune Health](content/hydration-immune-health/)** – Flüssigkeitszufuhr, Immunsystem, Krankheitsprävention
+### 🧭 [Content Index →](content/INDEX.md)
 
-Jedes Thema ist zweisprachig verfügbar (English + Deutsch).
+Der zentrale Einstiegspunkt: Warum Physiologie wichtig ist + Übersicht aller 6 Kategorien:
 
----
+- **Exercise & Movement** – Yoga, Qigong, Stretching, Breathing, Warm-ups
+- **Sleep** – Schlafoptimierung und Recovery
+- **Nutrition** – Ernährung nach Kontext (Pre-Game, During Tournament, Daily, Recovery)
+- **Mental Resilience** – Stressmanagement und emotionale Stabilität
+- **Hydration** – Flüssigkeitszufuhr für Performance
+- **Immune Health** – Immunsystem-Stärkung und Krankheitsprävention
 
-## 🤝 Mitwirkende
-
-Schach-Sport ist ein von Trainern kuratiertes Projekt. Möchtest du einen Artikel beitragen oder dich einbringen? Siehe [CONTRIBUTOR.md](CONTRIBUTOR.md).
+Jede Kategorie hat spezifische Topics mit Wissenschaft + praktischen Tipps.
 
 ---
 
 ## 📖 Video-Material (Archiv)
-
-> Die folgenden Videos sind eine Auswahl aus den Übungsinhalten, die wir empfehlen.
-> Videos sind derzeit noch nicht in die neue Struktur integriert, werden aber nach und nach organisiert.
 
 ### <ins>Klassischer Sonnengruss 6 Runden Surya Namaskar nach Sivananda Tradition</ins>
 

@@ -1,70 +1,57 @@
 # Content Organization
 
-Schach-Sport organizes physiology content by category. Each category folder holds bilingual topic pairs.
+Schach-Sport organizes physiology content in a hierarchical **tree structure** with a central INDEX.
 
-## Categories
+## 🌳 The Structure
 
-### Exercise & Movement
-Yoga, Qigong, stretching, breathing techniques, warm-up routines.  
-**Folder**: `exercise-movement/`
+```
+content/
+├── INDEX.md                           ← START HERE
+│   (Motivation + Kategorie-Übersicht)
+│
+├── exercise-movement/
+│   ├── README.md
+│   ├── yoga/                          ← Subkategorie
+│   ├── qigong/
+│   ├── stretching/
+│   ├── breathing/
+│   └── warm-ups/
+│
+├── sleep/                             ← Flach (keine Subkategorien)
+│   └── README.md
+│
+├── nutrition/
+│   ├── README.md
+│   ├── before-game/                   ← Subkategorien
+│   ├── during-tournament/
+│   ├── daily-nutrition/
+│   └── recovery/
+│
+├── mental-resilience/
+│   ├── README.md
+│   ├── tournament-pressure/           ← Subkategorien
+│   ├── between-games/
+│   └── daily-practice/
+│
+├── hydration/                         ← Flach
+│   └── README.md
+│
+└── immune-health/
+    ├── README.md
+    ├── prevention/                    ← Subkategorien
+    └── tournament-immune/
+```
 
-### Sleep
-Sleep cycles, recovery protocols, tournament sleep strategies, napping.  
-**Folder**: `sleep/`
+## ⚡ Quick Start
 
-### Nutrition
-Diet, macronutrients, meal timing, fuel for long tournaments.  
-**Folder**: `nutrition/`
+1. **[Open INDEX.md](INDEX.md)** — Zentrale Navigations-Quelle
+2. **Pick a category** — Exercise, Sleep, Nutrition, Mental Resilience, Hydration, oder Immune Health
+3. **Read a topic** — Jedes Topic ist ein eigenständiger Artikel mit Wissenschaft + praktischen Tipps
 
-### Mental Resilience
-Stress management, focus, pressure handling, breathing techniques, recovery between games.  
-**Folder**: `mental-resilience/`
+## 📝 Writing a Topic
 
-### Hydration & Immune Health
-Hydration strategies, immune system strengthening, illness prevention during tournament season.  
-**Folder**: `hydration-immune-health/`
+See [CONTRIBUTOR.md](../CONTRIBUTOR.md) for the template and workflow.
 
 ---
 
-## File Naming Convention
-
-Each topic exists as a bilingual pair:
-
-```
-category/
-├── topic-name.en.md    (English version)
-└── topic-name.de.md    (German version)
-```
-
-**Example**:
-```
-exercise-movement/
-├── yoga-morning-routine.en.md
-└── yoga-morning-routine.de.md
-```
-
-**Naming rules**:
-- Use lowercase
-- Hyphens between words (not underscores)
-- Descriptive but concise: `yoga-morning-routine` not `yoga` or `morning-yoga-routine-for-beginners`
-
----
-
-## Getting Started
-
-1. Read [CONTRIBUTOR.md](../CONTRIBUTOR.md) for how to write a topic
-2. Pick a category and topic
-3. Create a GitHub issue to announce your intention
-4. Create a branch: `content/category/topic-name`
-5. Write both `.en.md` and `.de.md` files (or just EN; translation can follow)
-6. Open a PR and request review
-7. Merge once approved
-
----
-
-## Current Topics
-
-- `exercise-movement/yoga-morning-routine.en.md` – Example: classical Sun Salutation
-- `exercise-movement/yoga-morning-routine.de.md` – Example: German version
-
-(More coming!)
+**[← Back to Root README](../README.md)**

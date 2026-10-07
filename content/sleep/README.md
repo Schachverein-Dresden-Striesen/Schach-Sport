@@ -1,12 +1,22 @@
-# Sleep & Recovery
+# Sleep
 
-Topics about sleep cycles, recovery protocols, tournament sleep strategies, napping, and sleep optimization for chess performance.
+Schlaf und Erholung sind kritisch für Turnier-Ausdauer, Entscheidungsfindung und Stressresilienz.
 
-## Topics (to be added)
+Diese Kategorie ist **flach** — alle Sleep-Topics an einer Stelle.
 
-- Sleep cycles and chess tournament endurance
-- Pre-tournament sleep strategy
-- Napping for tournament recovery
-- Sleep and memory consolidation
+## Topics (zu schreiben)
 
-See [CONTRIBUTOR.md](../../CONTRIBUTOR.md) to add a topic.
+- Sleep Cycles and Chess Tournament Endurance
+- Pre-Tournament Sleep Strategy
+- Napping for Round Recovery
+- Sleep and Memory Consolidation
+
+## Warum Schlaf wichtig ist
+
+- Dein Gehirn konsolidiert Schach-Pattern und Eröffnungen während REM-Schlaf
+- Schlafmangel degradiert Entscheidungsqualität stärker als Alkohol
+- Guter Schlaf ist das beste "Stressabbau-Tool" vor Turnieren
+
+---
+
+**[← Back to Content Index](../INDEX.md)**

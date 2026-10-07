@@ -1,20 +1,25 @@
 # Exercise & Movement
 
-Topics about yoga, Qigong, stretching, breathing techniques, warm-up routines, and physical conditioning for chess.
+Körperliche Übungen und Beweglichkeit für Schachspieler. Organisiert nach **Technik**: Yoga, Qigong, Stretching, Breathing, Warm-ups.
 
-## Topics
+Jede Teknik kann spezifische Körperbereiche ansprechen (z.B. "Yoga for Back," "Stretching for Neck & Shoulders") — die Kategorie bleibt aber Technik-fokussiert.
 
-- **[Morning Yoga Routine for Chess Players](yoga-morning-routine.en.md)** (Example topic)
-  - Classical Sun Salutation (Surya Namaskar) in 6 rounds
-  - Improves posture, focus, and nervous system regulation
-  - Available in [German](yoga-morning-routine.de.md)
+## Subkategorien
 
-## More topics (to be added)
+- **[Yoga](yoga/)** – Klassische Yoga-Praktiken (Sonnengruß, etc.)
+- **[Qigong](qigong/)** – Traditionelle chinesische Bewegungskunst
+- **[Stretching](stretching/)** – Gezielte Dehnübungen
+- **[Breathing](breathing/)** – Atemtechniken für Fokus und Stressabbau
+- **[Warm-ups](warm-ups/)** – Pre-tournament und Pre-game Vorbereitung
 
-- Back health and posture for long playing sessions
-- Qigong routines for energy and focus
-- Stretching for sitting soreness
-- Breathing techniques for stress management
-- Warm-up routines before tournaments
+## Warum Bewegung wichtig ist
 
-See [CONTRIBUTOR.md](../../CONTRIBUTOR.md) to add a topic.
+Regelmäßige körperliche Aktivität verbessert nachweislich:
+- Blutfluss zum Gehirn (bessere Sauerstoffversorgung)
+- Nervensystem-Regulation (weniger Stress)
+- Haltung (keine Slouch-bedingten kognitiven Defizite)
+- Stressresilienz während Turniere
+
+---
+
+**[← Back to Content Index](../INDEX.md)**

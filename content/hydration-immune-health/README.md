@@ -1,12 +1,10 @@
 # Hydration & Immune Health
 
-Topics about hydration strategies, immune system strengthening, and illness prevention during tournament season.
+Diese beiden Kategorien wurden in die neue Struktur aufgeteilt. Bitte hier navigieren:
 
-## Topics (to be added)
+- **[Hydration →](../hydration/)** – Flüssigkeitszufuhr für kognitive Performance
+- **[Immune Health →](../immune-health/)** – Immunsystem und Krankheitsprävention
 
-- Hydration strategy for tournament endurance
-- Immune resilience during tournament season
-- Preventing illness during travel and competitions
-- Electrolytes and cognitive performance
+---
 
-See [CONTRIBUTOR.md](../../CONTRIBUTOR.md) to add a topic.
+**[← Back to Content Index](../INDEX.md)**
