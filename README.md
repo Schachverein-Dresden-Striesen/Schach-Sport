@@ -1,6 +1,8 @@
 # Schach-Sport: Die Verbindung von körperlicher Fitness und Schachleistung
 
-## Motivation: Warum körperliche Fitness für Schachspieler entscheidend ist
+**Schach-Sport** ist eine kuratierte Sammlung von wissenschaftlich gestützten Inhalten über Physiologie für Schachspieler – Teenager, junge Erwachsene und Eltern von jungen Schachspielern. Erfahre, wie Schlaf, Ernährung, Bewegung und mentale Resilienz deine Schachleistung verbessern.
+
+## Warum körperliche Fitness für Schachspieler entscheidend ist
 
 Schach wird oft als rein mentaler Sport betrachtet, doch die Wissenschaft zeigt ein anderes Bild: **Körperliche Fitness ist ein entscheidender Faktor für optimale Schachleistung**. Während du dich über das Brett beugst und komplexe Stellungen analysierst, arbeitet dein Körper als hochpräzises System zusammen, um deine geistige Leistungsfähigkeit zu maximieren.
 
@@ -26,10 +28,30 @@ Dieser Bereich bietet eine Sammlung von wissenschaftlich fundierten Materialien 
 
 ---
 
-## Video-Material
+## 📚 Inhalte erkunden
 
-> Mit einem Klick auf die Thumbnail-Bilder kommt ihr direkt zum jeweiligen Youtube-Video.
-> Die Videos sind relativ sortiert nach ansteigender körperlicher Anforderung beim Mitmachen.
+Alle Inhalte sind organisiert nach Thema im `/content/` Verzeichnis:
+
+- **[Exercise & Movement](content/exercise-movement/)** – Yoga, Qigong, Atemtechniken, Dehnübungen
+- **[Sleep](content/sleep/)** – Schlafzyklen, Erholung, Turnierstrategien
+- **[Nutrition](content/nutrition/)** – Ernährung, Mahlzeitentiming, Turnierkraft
+- **[Mental Resilience](content/mental-resilience/)** – Stressmanagement, Fokus, Druckbewältigung
+- **[Hydration & Immune Health](content/hydration-immune-health/)** – Flüssigkeitszufuhr, Immunsystem, Krankheitsprävention
+
+Jedes Thema ist zweisprachig verfügbar (English + Deutsch).
+
+---
+
+## 🤝 Mitwirkende
+
+Schach-Sport ist ein von Trainern kuratiertes Projekt. Möchtest du einen Artikel beitragen oder dich einbringen? Siehe [CONTRIBUTOR.md](CONTRIBUTOR.md).
+
+---
+
+## 📖 Video-Material (Archiv)
+
+> Die folgenden Videos sind eine Auswahl aus den Übungsinhalten, die wir empfehlen.
+> Videos sind derzeit noch nicht in die neue Struktur integriert, werden aber nach und nach organisiert.
 
 ### <ins>Klassischer Sonnengruss 6 Runden Surya Namaskar nach Sivananda Tradition</ins>
 
